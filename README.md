@@ -1,1 +1,5 @@
-"# image_captioning" 
+The folder image_captioning_project.ipynb contains an detailed ML based Algorithm which is explained at each and every step. 
+This algorithm was basically implemented to generate some captions for some random images which is done by the Neural Network made with CNN, RNN and transfer Learning by learning or extracting the features of the images and then try to generate some meaningful explanation of that image.
+There are many important application of this image captioning model in real life, one of the most important application is: - 
+It is used in hearing aid for blind peoples where they can listen to some audible devices instructing them that what is actually situated in front of them, this whole proces is done by clicking an image through a camera and then the image is transferred to this ml based model which is finally connected to some audible device through which a blind person can be able to listen what he/she faced ahead of them at that moment.
+Rest of the samples and understanding related to this project is placed inside the folder that i had mention above... :)
